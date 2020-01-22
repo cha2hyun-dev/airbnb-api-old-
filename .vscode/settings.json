@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/cha2hyun/.local/share/virtualenvs/airbnb-api-58LbrZwc/bin/python"
+    "python.pythonPath": "/Users/cha2hyun/.local/share/virtualenvs/airbnb-api-58LbrZwc/bin/python",
+    "python.formatting.provider": "autopep8"
 }

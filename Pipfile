@@ -6,11 +6,15 @@ verify_ssl = true
 [dev-packages]
 flake8 = "*"
 black = "*"
+autopep8 = "*"
 
 [packages]
 django = "==2.2.6"
 pillow = "*"
 django-seed = "*"
+djangorestframework = "*"
+markdown = "*"
+django-filter = "*"
 
 [requires]
 python_version = "3.7"
