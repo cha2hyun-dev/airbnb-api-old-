@@ -15,6 +15,7 @@ django-seed = "*"
 djangorestframework = "*"
 markdown = "*"
 django-filter = "*"
+three = "*"
 
 [requires]
 python_version = "3.7"
